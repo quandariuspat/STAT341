@@ -1,0 +1,24 @@
+Quandarius Patrick
+
+# Created 100 random numbers and store them in a varaible called variablel
+
+# Calculate sd, mean, and median of variavle
+
+correlation.R
+
+variable1 <-c(sample(1:10, 1080, replace=T))
+
+sd (variablel)
+
+[1] 2.883794
+
+> mean (variable1)
+
+[1] 5.243
+
+> median (variable1)
+
+12
+
+(1] 5
+
